@@ -1,6 +1,6 @@
 # CS4412 : Data Mining
 # Kennesaw State University
-# Author
+# Author: Youssef El-Shaer
 # Homework 1
 
 # module for reading csv files
